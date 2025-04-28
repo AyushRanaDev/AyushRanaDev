@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Ayush Rana<br>Web Developer × AI/ML Enthusiast × Future-Ready Innovator<br><br>✨ What I'm Working On<br>Merging Full-Stack Web Development with Deep Learning and Generative AI.<br><br>Building smart, scalable, and intuitive applications powered by AI.<br><br>🔥 Areas of Interest<br>AI Integration into Web Platforms<br><br>LLM-Powered Tools and Applications<br><br>Deep Learning Architectures and GenAI Systems (RAG, Agents)<br><br>🌱 Currently Learning<br>Advanced Deep Learning (CNNs, RNNs, Transformers, LLMs)<br><br>Full-Stack Development (MERN Stack)<br><br>AI/ML Deployment on Cloud<br><br>Vector Databases, Embeddings, and Prompt Engineering<br><br>🤝 Open for Collaboration On<br>AI x Web Development Projects<br><br>LLM Systems, Smart Assistants, and GenAI Innovations<br><br>Research and Real-World Applications of Deep Learning<br><br>⚡ Fun Fact<br>I started by building websites.<br>Now, I'm building AI models that create smarter experiences for the web. 🚀
+# 👋 Hey, I'm Ayush Rana<br>Web Developer × AI/ML Enthusiast × Future-Ready Innovator<br><br>✨ What I'm Building  <br>Blending Full-Stack Web Development with Deep Learning and Generative AI.  <br>Crafting smart, scalable, and intuitive applications powered by AI.<br><br>🔥 Areas I'm Passionate About  <br>- AI Integration into Web Platforms  <br>- LLM-Powered Tools and Applications  <br>- Deep Learning Architectures and GenAI Systems (RAG, Agents)<br><br>🌱 Currently Leveling Up In  <br>- Advanced Deep Learning (CNNs, RNNs, Transformers, LLMs)  <br>- Full-Stack Development (MERN Stack)  <br>- AI/ML Deployment on Cloud Platforms  <br>- Vector Databases, Embeddings, and Prompt Engineering<br><br>🤝 Open to Collaborations On  <br>- AI x Web Development Projects  <br>- LLM Systems, Smart Assistants, GenAI Innovations  <br>- Research-Driven Applications of Deep Learning<br><br>⚡ Fun Tech Fact  <br>I started by building websites.  <br>Now, I’m engineering AI that builds smarter digital experiences. 🚀<br>
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AyushRanaDev&theme=gotham&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AyushRanaDev&limit=5&theme=gotham&combine_all_yearly_contributions=true)
