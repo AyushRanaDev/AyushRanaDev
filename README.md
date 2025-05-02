@@ -17,6 +17,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AyushRanaDev&theme=gotham&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AyushRanaDev&limit=5&theme=gotham&combine_all_yearly_contributions=true)
-
