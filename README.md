@@ -1,5 +1,4 @@
-# 💫 About Me:
-<br>👋 Hey, I'm Ayush Rana<br>🔭 AI & Full-Stack Developer building intelligent web experiences<br>🌱 Currently sharpening: **GenAI • RAG • LangChain • MERN • AWS**<br>💞️ Looking to collaborate on AI-powered web solutions<br>📫 ⚡ Fun fact: I started with websites, now I'm engineering AI that builds smarter experiences
+🌱<br> Getting things done <br>
 
 ![snake svg](https://github.com/AyushRanaDev/AyushRanaDev/blob/output/github-snake-dark.svg)
 
